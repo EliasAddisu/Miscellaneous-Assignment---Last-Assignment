@@ -8,7 +8,7 @@ int main() {
     student.setFirstName("Elias");
     student.setLastName("Addisu");
     student.setDepartment("Software Engineering");
-    student.setClassYear("Junior");
+    student.setClassYear("Senior");
 
     student.displayStudentInfo();
 
