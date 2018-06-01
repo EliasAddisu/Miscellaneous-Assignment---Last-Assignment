@@ -26,6 +26,6 @@ public class Server implements Student {
 
     @Override
     public String getStudentInfo() throws RemoteException {
-        return "Name: Mezigebu Zework \n ID: ATR/0337/08 Department \n Department: Software Engineering";
+        return "Name: Elias Addisu  \n ID: ATR/2100/08  \n Department: Software Engineering";
     }
 }
